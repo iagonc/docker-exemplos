@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:22.10
 MAINTAINER Daniel Romero <infoslack@gmail.com>
 
 ENV  DEBIAN_FRONTEND noninteractive
